@@ -1,0 +1,1236 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>My Email Subject</title>
+            <meta name="referrer" content="never">
+            <meta type="xrm/designer/setting" name="type" value="marketing-designer-content-editor-document">
+            <meta type="xrm/designer/setting" name="layout-editable" value="marketing-designer-layout-editable">
+            <meta type="xrm/designer/setting" name="layout-max-width" value="600px" datatype="text" label="Layout max width">
+            <meta type="xrm/designer/setting" name="font-family" value="Segoe UI, Frutiger, Helvetica Neue, Arial, sans-serif" datatype="font" label="Font Family">
+            <meta type="xrm/designer/setting" name="body-text-size" value="14px" datatype="text" label="Body Font Size">
+            <meta type="xrm/designer/setting" name="body-text-color" value="#000" datatype="color" label="Body Text Color">
+            <meta type="xrm/designer/setting" name="outer-background" value="#FFFFF" datatype="color" label="Email Background">
+            <style>
+                body, div {
+                    font-family: /* @font-family */ Segoe UI, Frutiger, Helvetica Neue, Arial, sans-serif /* @font-family */
+                    ;
+                    font-size: /* @body-text-size */
+                    14px/* @body-text-size */
+                    ;
+                    color: /* @body-text-color */
+                    #000/* @body-text-color */
+                    ;
+                    background-color: /* @outer-background */
+                    #fff/* @outer-background */
+                    ;
+                }
+
+                div div {
+                    background-color: transparent;
+                }
+
+                [data-layout="true"] {
+                    margin: 0 auto;
+                    max-width: /* @layout-max-width */
+                    600px/* @layout-max-width */
+                    ;
+                }
+
+                p {
+                    margin: 0px;
+                    padding: 0px;
+                    line-height: 125%;
+                    line-height: 1.25;
+                    mso-line-height-rule: at-least;
+                }
+
+                [dir="rtl"], [dir="rtl"] * {
+                    text-align: right;
+                }
+
+                s span {
+                    text-decoration: line-through;
+                }
+
+                u span {
+                    text-decoration: underline;
+                }
+
+                .dividerWrapper p span {
+                    line-height: 0px;
+                }
+
+                ul, ol {
+                    margin-top: 15px;
+                    margin-bottom: 15px;
+                    line-height: 125%;
+                    line-height: 1.25;
+                    mso-line-height-rule: at-least;
+                }
+
+                p img {
+                    max-width: 100%;
+                }
+
+                a {
+                    text-decoration: none;
+                }
+
+                u a {
+                    text-decoration: underline;
+                }
+
+                h1 {
+                    font-size: 28px;
+                }
+
+                h2 {
+                    font-size: 22px;
+                }
+
+                h3 {
+                    font-size: 18px;
+                }
+
+                h1, h2, h3, h4 {
+                    margin: 0px;
+                }
+
+                .imageWrapper a img {
+                    text-decoration: none;
+                    border: 0px;
+                }
+
+                th.columnContainer,
+                th.inner {
+                    font-weight: normal;
+                    text-align: left;
+                }
+
+                [dir="rtl"] th.columnContainer,
+                [dir="rtl"] th.inner {
+                    font-weight: normal;
+                    text-align: right;
+                }
+
+                @media only screen and (max-width: 768px) {
+                    .tbContainer {display: block !important;}
+                    
+                    a span {
+                        line-height: inherit !important;
+                    }
+
+                    .multi table {
+                        table-layout: fixed;
+                        height:auto !important;
+                    }
+                    
+                    .multi td {
+                        width: auto !important;
+                        min-height: auto !important;
+                    }
+                    
+                    .multi tbody,
+                    .multi tbody tr,
+                    .multi tbody tr td,
+                    .multi tbody tr th,
+                    .outer tbody,
+                    .outer tbody tr,
+                    .outer tbody tr td,
+                    .outer tbody tr th {
+                        display: block;
+                        width: 100% !important;
+                        box-sizing: border-box;
+                        height: auto !important;
+                        min-height: auto !important;
+                    } 
+                    
+                    .multi .inner {
+                        height: auto !important;
+                        min-height: auto !important;
+                    }
+
+                    .tbContainer .inner {box-sizing: border-box}
+
+                    .outer {
+                        width: 100% !important;
+                    }
+
+                    .tbContainer .columnContainer table {
+                        table-layout: fixed !important;
+                    }
+
+                    .innerTable {
+                        min-height: auto !important;
+                    }
+                    .no-wrap-section .outer .multi tbody tr td,
+                    .no-wrap-section .outer .multi tbody tr th {
+                        display: table-cell !important;
+                    }
+                    .no-wrap-section .outer .multi tbody tr td.inner,
+                    .no-wrap-section .outer .multi tbody tr th.inner {
+                        display: block !important;
+                    }
+                    .no-wrap-section .outer .multi .dividerWrapper tbody tr td,
+                    .no-wrap-section .outer .multi .dividerWrapper tbody tr th {
+                        display: block !important;
+                    }
+                    .no-wrap-section .containerWrapper tr {
+                        display: flex !important;
+                    }
+                    .no-wrap-section .containerWrapper .innerTable tr {
+                        display: block !important;
+                    }
+					.align_Center {
+    text-align: center !important;
+						
+                }
+					.mtop {
+   margin-top:0px!important;
+						
+                }
+					
+            </style>
+        </head>
+        <body><div data-layout="true" style="margin: auto; max-width: 600px;" data-layout-version="v2">
+                <div data-section="true" class="emptyContainer columns-equal-class wrap-section"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 600px;">
+                  <tbody>
+                    <tr>
+                      <th style="padding: 0px;">
+                        <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <th data-container="true" class="columnContainer" data-container-width="67" style="vertical-align:top; min-width: 5px; width: 402px; ; height: 0px;" id="container382ca0b383bbf1672395152753">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      </th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33" style="vertical-align:top; min-width: 5px; width: 198px; ; height: 0px;" id="container7da2ed7ca52be1672395152753">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text"><p style="text-align: right;"><span style="font-size:12px;"><u><span style="font-family:Segoe UI;"><a href="{{Message.ViewAsWebpageURL}}" data-msdyn-tracking-id="bb82fb14-d118-481c-83bd-33f74425e467"><span style="color:#003399;">Versión Web</span></a></span></u></span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                    </tr>
+                  </tbody>
+                </table></div><div data-section="true" class="wrap-section columns-equal-class">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 600px; display: block;">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 0px;">
+                                    <table style="width: 100%; border-collapse: collapse;" class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer" data-container-width="15.00" style="vertical-align: top; min-width: 5px; width: 90px; height: 0px;" id="container8da7797fab581645032575151">
+                                                    <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner ui-sortable" style="min-width: 5px; padding: 0px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                                <div data-editorblocktype="Image" style="padding: 0px; margin: 0px 0px 0px 10px;"><div align="center" class="imageWrapper" style="width: 100%;" data-image-file-id="15fea468-4288-ed11-81ac-6045bd9d7777" width="100%"><img src="https://mktdplp102neda.azureedge.net/org-265457960655414bacc0c38a03dce1fc/15fea468-4288-ed11-81ac-6045bd9d7777/moA6zvE7MMkq25NTqyZG4epiKPWFNU_48dl8fzUwcqI!" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px; margin-left: auto; margin-right: auto; height: 27px !important; width: 80px !important;" height="27" width="80" alt="havas media group"><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div></div></th>
+                                                            </tr>
+
+
+
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            <th data-container="true" class="columnContainer" data-container-width="63.66" style="vertical-align: top; min-width: 5px; width: 381.96px; height: 0px;" id="container199d62fb836aa1664443343136"><table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                         <tbody>
+                             <tr>
+                                 <th class="columnContainer inner" style="padding: 0px; min-width: 5px; vertical-align: bottom; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                 </th>
+                             </tr>
+                         </tbody>
+                     </table></th><th data-container="true" class="columnContainer" data-container-width="21.34" style="vertical-align: top; min-width: 5px; width: 128.04px; height: 0px;" id="containera86201a663c9f1664443511301"><table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                         <tbody>
+                             <tr>
+                                 <th class="columnContainer inner" style="padding: 0px 15px 0px 10px; min-width: 5px; vertical-align: bottom; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                 <div data-editorblocktype="Image" style="padding: 0px; margin: 0px;"><div align="center" class="imageWrapper" style="width: 100%;" data-image-file-id="a101f982-b9b2-ed11-83ff-6045bd8f9249" width="100%"><a href="https://agora.havas.com/#/spain/section/1010/havasxKnowledge/" data-msdyn-tracking-id="65a761e4b746f1673955381265"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/a101f982-b9b2-ed11-83ff-6045bd8f9249?ts=638126713379560895" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px; margin-left: auto; margin-right: auto; height: 16px !important; width: 103px !important;" height="16" width="103" alt="HavasKnowledge"></a><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div></div></th>
+                             </tr>
+                         </tbody>
+                     </table></th></tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div><div data-section="true" class="columns-equal-class wrap-section">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 600px; display: block;">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 0px;">
+                                    <table style="width: 100%; border-collapse: collapse;" class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer" data-container-width="100.00" style="vertical-align: top; min-width: 5px; width: 600px; height: 0px;" id="container82f6e40a6cf0d1680010027778">
+                                                    <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner ui-sortable" style="min-width: 5px; padding: 0px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                                
+                                 
+                                 <div data-editorblocktype="Divider" style="margin: 6px; padding: 0px;"><div class="dividerWrapper" align="center"><table style="padding: 0px; margin: 0px; width: 100%; border-collapse: collapse;" cellpadding="0" cellspacing="0"><tbody><tr style="padding: 0px;"><th style="margin: 0px; padding: 0px; vertical-align: top; border-top: 1px dotted rgb(179, 179, 179);"><p style="margin: 0px; padding: 0px; line-height: 0px; width: 100%;"><span><!--[if gte mso 9]><br/><![endif]-->&nbsp;</span></p></th></tr></tbody></table></div></div></th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div><div data-section="true" class="columns-equal-class wrap-section">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 600px; display: block;">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 0px;">
+                                    <table style="width: 100%; border-collapse: collapse;" class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer" data-container-width="100.00" style="vertical-align: top; min-width: 5px; width: 600px; height: 0px;" id="container8943767f0da611680010027778">
+                                                    <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner ui-sortable" style="min-width: 5px; padding: 0px 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                                
+                                 
+                                 <div data-editorblocktype="Image" style="padding: 0px; margin: 0px;"><div align="Center" class="imageWrapper" data-image-file-id="4063c6ae-ed09-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/4063c6ae-ed09-ee11-8f6e-6045bd9d18c1?ts=638222594971857224" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;"></div></div></th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div><div data-section="true" class="emptyContainer columns-equal-class wrap-section"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                      <tr>
+                          <th style="padding-right: 10px; padding-left: 10px;">
+                  <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align:top; min-width: 5px; width: 580px; ; height: 0px;" id="container6932767f393051686573515992">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                  <div data-editorblocktype="Text" style="margin: 10px;"><p><strong>Hola, {{contact.firstname}}:</strong> &nbsp;</p><p>Soy Zap, hacía tiempo que no me pasaba por aquí para ver cuán curiosa y critico estás siendo. ¿Ya has visto el apartado Tops de Zapiens? Espero que la respuesta haya sido sí y me des una alegría.&nbsp;</p><p><br></p><p>Hoy quiero explicarte por qué aparece tu nombre en esta clasificación, qué mide y qué significa. También, aprovecho la ocasión para enseñarte quiénes están en el TOP3, para que te piques con el de al lado &nbsp;</p></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                    <tr>
+                      <th style="padding-right: 10px; padding-left: 10px; padding-bottom: 10px;">
+                        <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <th data-container="true" class="columnContainer" data-container-width="5.00" style="vertical-align: top; min-width: 5px; width: 29px; height: 0px;" id="container5cf2fbf688a2f1686664266318">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner narrowContainer" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      </th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="25.00" style="vertical-align: top; min-width: 5px; width: 145px; height: 0px;" id="container8f68cb49e645d1686664266318">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Image" style="margin: 1px 5px 10px 10px;"><div align="right" class="imageWrapper" style="width: 100%;" data-image-file-id="2f7dc5ca-f109-ee11-8f6e-6045bd9d18c1" width="100%"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/2f7dc5ca-f109-ee11-8f6e-6045bd9d18c1?ts=638222612665649556" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; margin-left: auto; margin-right: 0px;"><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="60.00" style="vertical-align: top; min-width: 5px; width: 348px; height: 0px;" id="container37c727c8bafd31686664266318">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding-right: 10px; padding-left: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 15px 10px 10px 0px;"><p><span style="color:#e41522;"><strong><span style="font-size:22px;">TOPS 5Cs cómo funcionan</span></strong></span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                            <th data-container="true" class="columnContainer" data-container-width="10.00" style="vertical-align: top; min-width: 5px; width: 58px; height: 0px;" id="containere491d300029c41686664358616"><table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                         <tbody>
+                             <tr>
+                                 <th class="columnContainer inner narrowContainer" style="padding: 10px; min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                 </th>
+                             </tr>
+                         </tbody>
+                     </table></th></tr>
+                          </tbody>
+                        </table>
+                      </th>
+                    </tr>
+                </tbody>
+            </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="background-color: rgb(228, 21, 34);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                      <tr>
+                          <th style="padding-right: 10px; padding-left: 10px; background-color: rgb(228, 21, 34);">
+                  <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align:top; min-width: 5px; width: 580px; ; height: 0px;" id="containerdec1a963045621686665787525">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                  <div data-editorblocktype="Text" style="margin: 10px;"><p><span style="font-size:14px;"><span style="color:#ffffff;">El <strong>segundo apartado</strong> en Zapiens<strong> es "Tops"</strong> y en él se<strong> encuentran las 5Cs</strong>, que te mostrarán los<strong> avances </strong>de todos los usuarios en <strong>real time</strong>. Aunque puede <strong>quedarse pendiente </strong>de contabilizar algún punto, <strong>no te preocupes </strong>que a las <strong>08:00 revisaré y actualizaré todas las puntuaciones. </strong>Y recuerda que podrás ir viendo un <strong>sumatorio diario</strong> hasta <strong>completar el mes en curso</strong>, todos los meses.&nbsp;</span></span></p></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                      <tr>
+                          <th style="padding: 10px">
+                  <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align:top; min-width: 5px; width: 580px; ; height: 0px;" id="containerd0a5682654de71686665795783">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                  <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="font-size:18px;"><strong>Veamos qué incluye</strong> esta<strong> exclusiva lista</strong> para que <strong>sepas<br>&nbsp;cómo acceder a ella:&nbsp;</strong></span></p></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="background-color: rgb(228, 21, 34);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                      <tr>
+                          <th style="background-color: rgb(228, 21, 34);">
+                  <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align: top; min-width: 5px; width: 600px; height: 0px;" id="containere79608bed4b251686587538743">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                  <div data-editorblocktype="Text" style="margin: 10px 10px 0px;"><p style="text-align: center;"><span style="color:#ffffff;"><span style="font-size:22px;"><strong>1º CURIOSIDAD</strong></span></span></p></div><div data-editorblocktype="Divider" style="margin-right: 10px; margin-left: 10px; margin-bottom: 6px;"><div class="dividerWrapper" align="center"><table style="padding: 0px; margin: 0px; width: 30%; border-collapse: collapse;" cellpadding="0" cellspacing="0"><tbody><tr style="padding: 0px;"><th style="margin: 0px; padding: 0px; vertical-align: top; border-top: 2px solid rgb(255, 255, 255);"><p style="margin: 0px; padding: 0px; line-height: 0px; width: 100%;"><span><!--[if gte mso 9]><br/><![endif]-->&nbsp;</span></p></th></tr></tbody></table></div></div><div data-editorblocktype="Text" style="margin: 0px 25px 10px;"><p style="text-align: center;"><span style="font-size:14px;"><span style="color:#ffffff;"><strong>Comenzamos con los más preguntones</strong>, aquí os mostraré a aquellos que más preguntas hayan realizado. <strong>¿Aún no has preguntado?</strong> Seguro que a lo <strong>largo del día</strong> has hecho<strong> algunas a compañeros&nbsp;</strong></span></span></p></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" class="emptyContainer wrap-section columns-equal-class" style="background-color: rgb(246, 246, 246);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                    <tr>
+                      <th style="padding-right: 1px; background-color: rgb(246, 246, 246);">
+                        <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container2030b559add981686667827448">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 9px 10px 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; background-color: rgb(255, 255, 255); font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><b>POSICIÓN&nbsp;</b></p></div><div data-editorblocktype="Image" style="margin: 11px 10px 10px;"><div align="Center" class="imageWrapper" data-image-file-id="fab454b8-f709-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/fab454b8-f709-ee11-8f6e-6045bd9d18c1?ts=638222638084977377" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; height: 21px !important; width: 20px !important;" height="21" width="20"></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container3b2e1564bac3b1686667827448">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: bottom; word-wrap: break-word; word-break: break-word; background-color: rgb(255, 255, 255); font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px 10px 1px;"><p style="text-align: center;"><span style="color:#000000;"><strong>USUARIO</strong></span></p></div><div data-editorblocktype="Image"><div align="Center" class="imageWrapper" data-image-file-id="115c03db-010a-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/115c03db-010a-ee11-8f6e-6045bd9d18c1?ts=638222681623396942" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 40px !important; height: 41px !important;" width="40" height="41"></div></div><div data-editorblocktype="Text" style="margin: 0px 10px;"><p style="text-align: center;"><span style="color:#575756;">Muna Dib Paz</span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container8f960d29114121686667827448">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; background-color: rgb(255, 255, 255); font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#000000;"><strong>PUNTOS</strong></span></p><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div>
+                                 <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#575756;"><span style="font-size:20px;"><strong>20</strong></span></span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                    </tr>
+                </tbody>
+            </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                    <tr>
+                      <th>
+                        <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <th data-container="true" class="columnContainer" data-container-width="16.67" style="vertical-align: top; min-width: 5px; width: 100.02px; height: 0px;" id="container564f18b4e39081686733538895">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; background-color: rgb(246, 246, 246); font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 9px 0px;"><p style="text-align: center;"><b>POSICIÓN</b></p></div><div data-editorblocktype="Image" style="margin: 11px 10px 10px;"><div align="Center" class="imageWrapper" data-image-file-id="9f0128b7-fd09-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/9f0128b7-fd09-ee11-8f6e-6045bd9d18c1?ts=638222663887891896" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 16px !important; height: 17px !important;" width="16" height="17"></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                            <th data-container="true" class="columnContainer" data-container-width="16.67" style="vertical-align: top; min-width: 5px; width: 100.02px; height: 0px;" id="containerdbb5c2850fb951686733538895">
+                              <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                <tbody>
+                                  <tr>
+                                    <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; background-color: rgb(246, 246, 246); font-weight: normal;">
+                                    <div data-editorblocktype="Text" style="margin: 10px 0px 0px;"><p style="text-align: center;"><span style="color:#000000;"><strong>USUARIO</strong></span></p></div><div data-editorblocktype="Image"><div align="Center" class="imageWrapper" data-image-file-id="0a5c03db-010a-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/0a5c03db-010a-ee11-8f6e-6045bd9d18c1?ts=638222681619334373" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 40px !important; height: 41px !important;" width="40" height="41"></div></div><div data-editorblocktype="Text" style="margin: 0px;"><p style="text-align: center;"><span style="color:#575756;">Ester García Cosín</span></p></div></th>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </th>
+                            <th data-container="true" class="columnContainer" data-container-width="16.67" style="vertical-align: top; min-width: 5px; width: 100.02px; height: 0px;" id="containere57a8ed1002451686733538895">
+                              <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                <tbody>
+                                  <tr>
+                                    <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; background-color: rgb(246, 246, 246); font-weight: normal;">
+                                    <div data-editorblocktype="Text" style="margin: 10px 0px;"><p style="text-align: center;"><span style="color:#000000;"><strong>PUNTOS</strong></span></p><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div><div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#575756;"><span style="font-size:20px;"><strong>161</strong></span></span></p></div></th>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </th>
+                            <th data-container="true" class="columnContainer" data-container-width="16.67" style="vertical-align: top; min-width: 5px; width: 100.02px; height: 0px;" id="container4ac0cee81f3bc1686733538895">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding-top: 10px; padding-bottom: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; background-color: rgb(230, 230, 230); font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><b>POSICIÓN&nbsp;</b></p></div><div data-editorblocktype="Image" style="margin: 11px 10px 10px;"><div align="Center" class="imageWrapper" data-image-file-id="9e0128b7-fd09-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/9e0128b7-fd09-ee11-8f6e-6045bd9d18c1?ts=638222663887891896" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 16px !important; height: 17px !important;" width="16" height="17"></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                          <th data-container="true" class="columnContainer" data-container-width="16.67" style="vertical-align: top; min-width: 5px; width: 100.02px; height: 0px;" id="containerd7fac3a91163e1686733548253"><table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                         <tbody>
+                             <tr>
+                                 <th class="columnContainer inner" style="padding-top: 10px; padding-bottom: 10px; padding-left: 1px; min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; background-color: rgb(230, 230, 230); font-weight: normal;">
+                                 <div data-editorblocktype="Text" style="margin: 10px 10px 0px;"><p style="text-align: center;"><span style="color:#000000;"><strong>USUARIO</strong></span></p></div><div data-editorblocktype="Image"><div align="Center" class="imageWrapper" data-image-file-id="2a5c03db-010a-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/2a5c03db-010a-ee11-8f6e-6045bd9d18c1?ts=638222681633241052" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 40px !important; height: 41px !important;" width="40" height="41"></div></div><div data-editorblocktype="Text" style="margin: 0px 10px;"><p style="text-align: center;"><span style="color:#575756;">Enrique Escalante</span></p></div></th>
+                             </tr>
+                         </tbody>
+                     </table></th><th data-container="true" class="columnContainer" data-container-width="16.67" style="vertical-align: top; min-width: 5px; width: 100.02px; height: 0px;" id="containerb87f78ebc0f911686733549859"><table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                         <tbody>
+                             <tr>
+                                 <th class="columnContainer inner" style="padding-top: 10px; padding-bottom: 10px; min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; background-color: rgb(230, 230, 230); font-weight: normal;">
+                                 <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#000000;"><strong>PUNTOS</strong></span></p><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div><div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#575756;"><span style="font-size:20px;"><strong>102</strong></span></span></p></div></th>
+                             </tr>
+                         </tbody>
+                     </table></th></tr>
+                        </tbody>
+                      </table>
+                    </th>
+                  </tr>
+                </tbody>
+              </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="background-color: rgb(228, 21, 34);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                      <tr>
+                          <th style="background-color: rgb(228, 21, 34);">
+                  <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align: top; min-width: 5px; width: 600px; height: 0px;" id="containere57bdefdd27961686671554238">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                  <div data-editorblocktype="Text" style="margin: 10px 10px 0px;"><p style="text-align: center;"><span style="color:#ffffff;"><span style="font-size:22px;"><strong>2º COLABORACIÓN</strong></span></span></p></div><div data-editorblocktype="Divider" style="margin-right: 10px; margin-left: 10px; margin-bottom: 6px;"><div class="dividerWrapper" align="center"><table style="padding: 0px; margin: 0px; width: 30%; border-collapse: collapse;" cellpadding="0" cellspacing="0"><tbody><tr style="padding: 0px;"><th style="margin: 0px; padding: 0px; vertical-align: top; border-top: 2px solid rgb(255, 255, 255);"><p style="margin: 0px; padding: 0px; line-height: 0px; width: 100%;"><span><!--[if gte mso 9]><br/><![endif]-->&nbsp;</span></p></th></tr></tbody></table></div></div><div data-editorblocktype="Text" style="margin: 0px 45px 10px;"><p style="text-align: center;"><span style="font-size:14px;"><span style="color:#ffffff;">Aquí tenemos a los que han ayudado respondiendo preguntas este mes.<strong> ¡Compartir es vivir!&nbsp;</strong></span></span></p></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" class="emptyContainer wrap-section columns-equal-class" style="background-color: rgb(246, 246, 246);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                    <tr>
+                      <th style="padding-right: 1px; background-color: rgb(246, 246, 246);">
+                        <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="containerc6eadcb53325d1686671933766">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 9px 10px 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><b>POSICIÓN</b></p></div><div data-editorblocktype="Image" style="margin: 11px 10px 10px;"><div align="Center" class="imageWrapper" data-image-file-id="fab454b8-f709-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/fab454b8-f709-ee11-8f6e-6045bd9d18c1?ts=638222638084977377" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 16px !important; height: 17px !important;" width="16" height="17"></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="containerd467028f33821686671933766">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: bottom; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px 10px 0px;"><p style="text-align: center;"><span style="color:#000000;"><strong>USUARIO</strong></span></p></div><div data-editorblocktype="Image"><div align="Center" class="imageWrapper" data-image-file-id="0e5c03db-010a-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/0e5c03db-010a-ee11-8f6e-6045bd9d18c1?ts=638222681620115581" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 40px !important; height: 41px !important;" width="40" height="41"></div></div><div data-editorblocktype="Text" style="margin: 0px 10px;"><p style="text-align: center;"><span style="color:#575756;">Juan Pedro Moreno Cruzado</span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container5586368e17c381686671933766">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#000000;"><strong>PUNTOS</strong></span></p><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div>
+                                 <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#575756;"><span style="font-size:20px;"><strong>20</strong></span></span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                    </tr>
+                </tbody>
+            </table></div><div data-section="true" class="emptyContainer wrap-section columns-equal-class" style="background-color: rgb(246, 246, 246);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                    <tr>
+                      <th style="padding-right: 1px; background-color: rgb(246, 246, 246);">
+                        <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container2682c4295700c1686671933766">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 9px 10px 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><b>POSICIÓN</b></p></div><div data-editorblocktype="Image" style="margin: 11px 10px 10px;"><div align="Center" class="imageWrapper" data-image-file-id="9f0128b7-fd09-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/9f0128b7-fd09-ee11-8f6e-6045bd9d18c1?ts=638222663887891896" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 16px !important; height: 17px !important;" width="16" height="17"></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container4c13d61a7cb2c1686671933766">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: bottom; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px 10px 0px;"><p style="text-align: center;"><span style="color:#000000;"><strong>USUARIO</strong></span></p></div><div data-editorblocktype="Image"><div align="Center" class="imageWrapper" data-image-file-id="2a5c03db-010a-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/2a5c03db-010a-ee11-8f6e-6045bd9d18c1?ts=638222681633241052" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 40px !important; height: 41px !important;" width="40" height="41"></div></div><div data-editorblocktype="Text" style="margin: 0px 10px;"><p style="text-align: center;"><span style="color:#575756;">&nbsp; Vanessa Sanz Pedro de Alcántara</span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container2bd41e828a73d1686671933766">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#000000;"><strong>PUNTOS</strong></span></p><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div>
+                                 <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#575756;"><span style="font-size:20px;"><strong>10</strong></span></span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                    </tr>
+                </tbody>
+            </table></div><div data-section="true" class="emptyContainer wrap-section columns-equal-class" style="background-color: rgb(246, 246, 246);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                    <tr>
+                      <th style="padding-right: 1px; background-color: rgb(246, 246, 246);">
+                        <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container946141e433d031686671933766">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 9px 10px 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><b>POSICIÓN</b></p></div><div data-editorblocktype="Image" style="margin: 11px 10px 10px;"><div align="Center" class="imageWrapper" data-image-file-id="9e0128b7-fd09-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/9e0128b7-fd09-ee11-8f6e-6045bd9d18c1?ts=638222663887891896" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 16px !important; height: 17px !important;" width="16" height="17"></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container871e8abda64791686671933766">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: bottom; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px 10px 0px;"><p style="text-align: center;"><span style="color:#000000;"><strong>USUARIO</strong></span></p></div><div data-editorblocktype="Image"><div align="Center" class="imageWrapper" data-image-file-id="2a5c03db-010a-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/2a5c03db-010a-ee11-8f6e-6045bd9d18c1?ts=638222681633241052" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 40px !important; height: 41px !important;" width="40" height="41"></div></div><div data-editorblocktype="Text" style="margin: 0px 10px;"><p style="text-align: center;"><span style="color:#575756;">Ángel Esteban Valentín</span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="containerc4f969af0d56d1686671933766">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#000000;"><strong>PUNTOS</strong></span></p><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div>
+                                 <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#575756;"><span style="font-size:20px;"><strong>5</strong></span></span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                    </tr>
+                </tbody>
+            </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="background-color: rgb(228, 21, 34);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                      <tr>
+                          <th style="background-color: rgb(228, 21, 34);">
+                  <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align: top; min-width: 5px; width: 600px; height: 0px;" id="containerecb1935eaca311686671933766">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                  <div data-editorblocktype="Text" style="margin: 10px 10px 0px;"><p style="text-align: center;"><span style="color:#ffffff;"><span style="font-size:22px;"><strong>3º CRÍTICA</strong></span></span></p></div><div data-editorblocktype="Divider" style="margin-right: 10px; margin-left: 10px; margin-bottom: 6px;"><div class="dividerWrapper" align="center"><table style="padding: 0px; margin: 0px; width: 30%; border-collapse: collapse;" cellpadding="0" cellspacing="0"><tbody><tr style="padding: 0px;"><th style="margin: 0px; padding: 0px; vertical-align: top; border-top: 2px solid rgb(255, 255, 255);"><p style="margin: 0px; padding: 0px; line-height: 0px; width: 100%;"><span><!--[if gte mso 9]><br/><![endif]-->&nbsp;</span></p></th></tr></tbody></table></div></div><div data-editorblocktype="Text" style="margin: 0px 45px 10px;"><p style="text-align: center;"><span style="font-size:14px;"><span style="color:#ffffff;">¿<strong>Alguna vez</strong> has creído que una <strong>respuesta era errónea o incompleta</strong>?&nbsp;</span></span></p></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                      <tr>
+                          <th style="padding-right: 10px; padding-left: 10px;">
+                  <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align:top; min-width: 5px; width: 580px; ; height: 0px;" id="containerd8693e52b20641686664205938">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                  <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="font-size:16px;">Aún <strong>no tenemos a nadie en desacuerdo</strong> con <strong>ninguna </strong>de las <strong>respuestas</strong>, <strong>¡sé crítico!</strong></span></p></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="background-color: rgb(228, 21, 34);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                      <tr>
+                          <th style="background-color: rgb(228, 21, 34);">
+                  <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align: top; min-width: 5px; width: 600px; height: 0px;" id="containerc6b0ddddf06661686671933766">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                  <div data-editorblocktype="Text" style="margin: 10px 10px 0px;"><p style="text-align: center;"><span style="color:#ffffff;"><span style="font-size:22px;"><strong>4º CONSTANCIA</strong></span></span></p></div><div data-editorblocktype="Divider" style="margin-right: 10px; margin-left: 10px; margin-bottom: 6px;"><div class="dividerWrapper" align="center"><table style="padding: 0px; margin: 0px; width: 30%; border-collapse: collapse;" cellpadding="0" cellspacing="0"><tbody><tr style="padding: 0px;"><th style="margin: 0px; padding: 0px; vertical-align: top; border-top: 2px solid rgb(255, 255, 255);"><p style="margin: 0px; padding: 0px; line-height: 0px; width: 100%;"><span><!--[if gte mso 9]><br/><![endif]-->&nbsp;</span></p></th></tr></tbody></table></div></div><div data-editorblocktype="Text" style="margin: 0px 45px 10px;"><p style="text-align: center;"><span style="font-size:14px;"><span style="color:#ffffff;">El<strong> compromiso es clave </strong>para ser <strong>constantes </strong>y <strong>vosotros </strong>sois los <strong>más comprometidos</strong> con el <strong>aprendizaje</strong>,<strong> ¡qué feliz!</strong></span></span></p></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" class="emptyContainer wrap-section columns-equal-class" style="background-color: rgb(246, 246, 246);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                    <tr>
+                      <th style="padding-right: 1px; background-color: rgb(246, 246, 246);">
+                        <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container7ee7d508ddbe91686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 9px 10px 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><b>POSICIÓN</b></p></div><div data-editorblocktype="Image" style="margin: 11px 10px 10px;"><div align="Center" class="imageWrapper" data-image-file-id="fab454b8-f709-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/fab454b8-f709-ee11-8f6e-6045bd9d18c1?ts=638222638084977377" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 16px !important; height: 17px !important;" width="16" height="17"></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container38c8ac47d17a51686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: bottom; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px 10px 0px;"><p style="text-align: center;"><span style="color:#000000;"><strong>USUARIO</strong></span></p></div><div data-editorblocktype="Image"><div align="Center" class="imageWrapper" data-image-file-id="115c03db-010a-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/115c03db-010a-ee11-8f6e-6045bd9d18c1?ts=638222681623396942" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 40px !important; height: 41px !important;" width="40" height="41"></div></div><div data-editorblocktype="Text" style="margin: 0px 10px;"><p style="text-align: center;"><span style="color:#575756;">Muna Dib Paz</span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container48b9381d2cc491686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#000000;"><strong>PUNTOS</strong></span></p><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div>
+                                 <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#575756;"><span style="font-size:20px;"><strong>13</strong></span></span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                    </tr>
+                </tbody>
+            </table></div><div data-section="true" class="emptyContainer wrap-section columns-equal-class" style="background-color: rgb(246, 246, 246);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                    <tr>
+                      <th style="padding-right: 1px; background-color: rgb(246, 246, 246);">
+                        <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="containerd18ea7c1599e81686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 9px 10px 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><b>POSICIÓN</b></p></div><div data-editorblocktype="Image" style="margin: 11px 10px 10px;"><div align="Center" class="imageWrapper" data-image-file-id="9f0128b7-fd09-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/9f0128b7-fd09-ee11-8f6e-6045bd9d18c1?ts=638222663887891896" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 16px !important; height: 17px !important;" width="16" height="17"></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container35c93f3bb909a1686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: bottom; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px 10px 0px;"><p style="text-align: center;"><span style="color:#000000;"><strong>USUARIO</strong></span></p></div><div data-editorblocktype="Image"><div align="Center" class="imageWrapper" data-image-file-id="2a5c03db-010a-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/2a5c03db-010a-ee11-8f6e-6045bd9d18c1?ts=638222681633241052" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 40px !important; height: 41px !important;" width="40" height="41"></div></div><div data-editorblocktype="Text" style="margin: 0px 10px;"><p style="text-align: center;"><span style="color:#575756;">Robert Hérnandez Nisa</span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container3a8573bd8532d1686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#000000;"><strong>PUNTOS</strong></span></p><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div>
+                                 <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#575756;"><span style="font-size:20px;"><strong>13</strong></span></span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                    </tr>
+                </tbody>
+            </table></div><div data-section="true" class="emptyContainer wrap-section columns-equal-class" style="background-color: rgb(246, 246, 246);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                    <tr>
+                      <th style="padding-right: 1px; background-color: rgb(246, 246, 246);">
+                        <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="containera888a473de5831686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 9px 10px 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><b>POSICIÓN</b></p></div><div data-editorblocktype="Image" style="margin: 11px 10px 10px;"><div align="Center" class="imageWrapper" data-image-file-id="9e0128b7-fd09-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/9e0128b7-fd09-ee11-8f6e-6045bd9d18c1?ts=638222663887891896" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 16px !important; height: 17px !important;" width="16" height="17"></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container9f377f38bad331686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: bottom; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px 10px 0px;"><p style="text-align: center;"><span style="color:#000000;"><strong>USUARIO</strong></span></p></div><div data-editorblocktype="Image"><div align="Center" class="imageWrapper" data-image-file-id="0c5c03db-010a-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/0c5c03db-010a-ee11-8f6e-6045bd9d18c1?ts=638222681619647196" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 40px !important; height: 41px !important;" width="40" height="41"></div></div><div data-editorblocktype="Text" style="margin: 0px 10px;"><p style="text-align: center;"><span style="color:#575756;">David García García</span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container35244605370d61686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#000000;"><strong>PUNTOS</strong></span></p><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div>
+                                 <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#575756;"><span style="font-size:20px;"><strong>10</strong></span></span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                    </tr>
+                </tbody>
+            </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section" style="background-color: rgb(228, 21, 34);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                      <tr>
+                          <th style="background-color: rgb(228, 21, 34);">
+                  <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align: top; min-width: 5px; width: 600px; height: 0px;" id="container6d14058e0ed361686675022552">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                  <div data-editorblocktype="Text" style="margin: 10px 10px 0px;"><p style="text-align: center;"><span style="color:#ffffff;"><span style="font-size:22px;"><strong>5º CONOCIMIENTO</strong></span></span></p></div><div data-editorblocktype="Divider" style="margin-right: 10px; margin-left: 10px; margin-bottom: 6px;"><div class="dividerWrapper" align="center"><table style="padding: 0px; margin: 0px; width: 30%; border-collapse: collapse;" cellpadding="0" cellspacing="0"><tbody><tr style="padding: 0px;"><th style="margin: 0px; padding: 0px; vertical-align: top; border-top: 2px solid rgb(255, 255, 255);"><p style="margin: 0px; padding: 0px; line-height: 0px; width: 100%;"><span><!--[if gte mso 9]><br/><![endif]-->&nbsp;</span></p></th></tr></tbody></table></div></div><div data-editorblocktype="Text" style="margin: 0px 70px 10px;"><p style="text-align: center;"><span style="font-size:14px;"><span style="color:#ffffff;"><strong>¡Una imagen vale más que mil palabras! </strong>Y esta <strong>es la prueba </strong>de que <strong>hemos aprendido respondiendo preguntas</strong> correctamente</span></span></p></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" class="emptyContainer wrap-section columns-equal-class" style="background-color: rgb(246, 246, 246);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                    <tr>
+                      <th style="padding-right: 1px; background-color: rgb(246, 246, 246);">
+                        <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container4d17622a4e1b41686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 9px 10px 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><b>POSICIÓN</b></p></div><div data-editorblocktype="Image" style="margin: 11px 10px 10px;"><div align="Center" class="imageWrapper" data-image-file-id="fab454b8-f709-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/fab454b8-f709-ee11-8f6e-6045bd9d18c1?ts=638222638084977377" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 16px !important; height: 17px !important;" width="16" height="17"></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container049d12493ccbf1686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: bottom; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px 10px 0px;"><p style="text-align: center;"><span style="color:#000000;"><strong>USUARIO</strong></span></p></div><div data-editorblocktype="Image"><div align="Center" class="imageWrapper" data-image-file-id="2a5c03db-010a-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/2a5c03db-010a-ee11-8f6e-6045bd9d18c1?ts=638222681633241052" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 40px !important; height: 41px !important;" width="40" height="41"></div></div><div data-editorblocktype="Text" style="margin: 0px 10px;"><p style="text-align: center;"><span style="color:#575756;">Luis Sevilla</span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="containerff9d376c2ec791686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#000000;"><strong>PUNTOS</strong></span></p><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div>
+                                 <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#575756;"><span style="font-size:20px;"><strong>30</strong></span></span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                    </tr>
+                </tbody>
+            </table></div><div data-section="true" class="emptyContainer wrap-section columns-equal-class" style="background-color: rgb(246, 246, 246);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                    <tr>
+                      <th style="padding-right: 1px; background-color: rgb(246, 246, 246);">
+                        <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container831c11face0ef1686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 9px 10px 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><b>POSICIÓN</b></p></div><div data-editorblocktype="Image" style="margin: 11px 10px 10px;"><div align="Center" class="imageWrapper" data-image-file-id="9f0128b7-fd09-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/9f0128b7-fd09-ee11-8f6e-6045bd9d18c1?ts=638222663887891896" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 16px !important; height: 17px !important;" width="16" height="17"></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="containere487d9ccfbaf31686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: bottom; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px 10px 0px;"><p style="text-align: center;"><span style="color:#000000;"><strong>USUARIO</strong></span></p></div><div data-editorblocktype="Image"><div align="Center" class="imageWrapper" data-image-file-id="145c03db-010a-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/145c03db-010a-ee11-8f6e-6045bd9d18c1?ts=638222681626678374" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 40px !important; height: 41px !important;" width="40" height="41"></div></div><div data-editorblocktype="Text" style="margin: 0px 10px;"><p style="text-align: center;"><span style="color:#575756;">Mónica Fachal</span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container3765a0a1fcb6c1686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#000000;"><strong>PUNTOS</strong></span></p><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div>
+                                 <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#575756;"><span style="font-size:20px;"><strong>21</strong></span></span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                    </tr>
+                </tbody>
+            </table></div><div data-section="true" class="emptyContainer wrap-section columns-equal-class" style="background-color: rgb(246, 246, 246);"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                    <tr>
+                      <th style="padding-right: 1px; background-color: rgb(246, 246, 246);">
+                        <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                          <tbody>
+                            <tr>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container0441c1ccc7b881686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 9px 10px 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><b>POSICIÓN</b></p></div><div data-editorblocktype="Image" style="margin: 11px 10px 10px;"><div align="Center" class="imageWrapper" data-image-file-id="9e0128b7-fd09-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/9e0128b7-fd09-ee11-8f6e-6045bd9d18c1?ts=638222663887891896" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 16px !important; height: 17px !important;" width="16" height="17"></div></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container759e4d49305011686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: bottom; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px 10px 0px;"><p style="text-align: center;"><span style="color:#000000;"><strong>USUARIO</strong></span></p></div><div data-editorblocktype="Image"><div align="Center" class="imageWrapper" data-image-file-id="0c5c03db-010a-ee11-8f6e-6045bd9d18c1"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/0c5c03db-010a-ee11-8f6e-6045bd9d18c1?ts=638222681619647196" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; width: 40px !important; height: 41px !important;" width="40" height="41"></div></div><div data-editorblocktype="Text" style="margin: 0px 10px;"><p style="text-align: center;"><span style="color:#575756;">David García García</span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                              <th data-container="true" class="columnContainer" data-container-width="33.33" style="vertical-align: top; min-width: 5px; width: 199.65px; height: 0px;" id="container50f914424d4061686675022552">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                  <tbody>
+                                    <tr>
+                                      <th class="columnContainer inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                      <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#000000;"><strong>PUNTOS</strong></span></p><div class="clear" style="clear: both; height: 0px; width: 0px;"></div></div>
+                                 <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;"><span style="color:#575756;"><span style="font-size:20px;"><strong>14</strong></span></span></p></div></th>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </th>
+                    </tr>
+                </tbody>
+            </table></div><div data-section="true" class="emptyContainer columns-equal-class wrap-section"><table class="outer" align="center" cellpadding="0" cellspacing="0" style="width: 600px;">
+                  <tbody>
+                      <tr>
+                          <th style="padding-right: 10px; padding-left: 10px;">
+                  <table style="
+                width: 100%;
+                border-collapse: collapse;
+            " class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                      <tbody>
+                      <tr>
+                          <th data-container="true" class="columnContainer" data-container-width="100" style="vertical-align:top; min-width: 5px; width: 580px; ; height: 0px;" id="container3bbc8e237bab21686671933766">
+                          <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                              <tbody>
+                              <tr>
+                                  <th class="inner" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                  <div data-editorblocktype="Text" style="margin: 10px;"><p style="text-align: center;">Digamos que aquí está <strong>la crème de la crème</strong>, así que <strong>si quieres entrar en esta lista tan exclusiva</strong> no te olvides de<strong> descargar Zapiens y darle caña. </strong>¿Veremos<strong> caras nuevas el próximo mes </strong>en estos<strong> Tops</strong>?&nbsp;</p></div></th>
+                              </tr>
+                              </tbody>
+                          </table>
+                          </th>
+                      </tr>
+                      </tbody>
+                  </table>
+                  </th>
+              </tr>
+              </tbody>
+          </table></div><div data-section="true" class="columns-equal-class wrap-section">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 600px; display: block;">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 0px;">
+                                    <table style="width: 100%; border-collapse: collapse;" class="containerWrapper tbContainer multi" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer" data-container-width="100.00" style="vertical-align: top; min-width: 5px; width: 600px; height: 0px;" id="containera4857a7db1f791680010027778">
+                                                    <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner ui-sortable" style="min-width: 5px; padding: 4px 10px 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                                <div data-editorblocktype="Divider" style="margin: 13px; padding: 0px;"><div class="dividerWrapper" align="center"><table style="padding: 0px; margin: 0px; width: 100%; border-collapse: collapse;" cellpadding="0" cellspacing="0"><tbody><tr style="padding: 0px;"><th style="margin: 0px; padding: 0px; vertical-align: top; border-top: 2px dotted rgb(37, 93, 142);"><p style="margin: 0px; padding: 0px; line-height: 0px; width: 100%;"><span><!--[if gte mso 9]><br/><![endif]-->&nbsp;</span></p></th></tr></tbody></table></div></div><div data-editorblocktype="Image" style="padding: 0px; margin: 0px;"><div align="Center" class="imageWrapper" data-image-file-id="de5f926a-bbb2-ed11-83ff-6045bd8f9249"><img src="https://assets-eur.mkt.dynamics.com/2c77ab4b-22a1-466c-a4ea-9f7c984bf50d/digitalassets/images/de5f926a-bbb2-ed11-83ff-6045bd8f9249?ts=638126721606679936" style="max-height: 100%; max-width: 100%; box-sizing: border-box; display: block; border-radius: 0px;" data-msdyn-tracking="false"></div></div></th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div data-section="true" class="columns-equal-class wrap-section">
+                    <table class="outer" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 600px; display: block;">
+                        <tbody>
+                            <tr>
+                                <th style="padding: 10px; background-color: rgba(0, 0, 0, 0); border-radius: 0px;">
+                                    <table style="display: block; width: 100%; border-collapse: collapse;" class="containerWrapper tbContainer" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                            <tr>
+                                                <th data-container="true" class="columnContainer" data-container-width="100" style="min-width: 5px; width: 580px; height: 0px;" id="containerf6ee421d276ce1645032575152">
+                                                    <table width="100%" cellpadding="0" cellspacing="0" style="height: 100%;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <th class="inner ui-sortable" style="min-width: 5px; padding: 10px; vertical-align: top; word-wrap: break-word; word-break: break-word; font-weight: normal;">
+                                                                    <div data-editorblocktype="Text"><p style="text-align: center;font-size: 11px;"><span style="color:#605e5c; font-size: 11px;"><font face="Verdana, Geneva, sans-serif"><span>{{msdyncrm_contentsettings.msdyncrm_addressmain}}</span></font></span></p></div>
+                                                                </th>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </th>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+            </div></body></html>
